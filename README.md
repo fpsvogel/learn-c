@@ -12,6 +12,7 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 - [Scripting](#scripting)
 - [Assembly](#assembly)
 - [Game programming](#game-programming)
+- [Codebases to read through](#codebases-to-read-through)
 
 ## Introduction
 
@@ -54,3 +55,8 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 - [ ] Make a game, taking inspiration from [high_impact](https://phoboslab.org/log/2024/08/high_impact), [raylib](https://www.raylib.com/), [Box2D 3.x](https://github.com/erincatto/box2c) (or see [box2d-raylib](https://github.com/erincatto/box2d-raylib))
   - Or make a text-based game: see [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html) and [Knuth's C port of Colossal Cave Adventure](http://www.literateprogramming.com/adventure.pdf) (which, incidentally, is an example of *literate programming*, now reincarnated in [Entangled](https://entangled.github.io/))
 - [ ] [Handmade Network](https://handmade.network)
+
+## Codebases to read through
+
+- [SQLite](https://github.com/sqlite/sqlite)
+- [NetBSD](https://github.com/NetBSD/src) ([tour](https://www.feyrer.de/NetBSD/tour-de-source.html))
