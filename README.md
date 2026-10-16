@@ -28,8 +28,9 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 
 ## Code analyzers
 
-- [CodeChecker](https://github.com/Ericsson/codechecker)
+- [Cppcheck](https://cppcheck.sourceforge.io/)
 - [Splint](https://splint.org)
+<!-- [CodeChecker](https://github.com/Ericsson/codechecker) has others but I was unsuccessful installing it (or them individually) on MacOS -->
 
 ## Garbage collection
 
