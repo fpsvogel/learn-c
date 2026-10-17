@@ -18,6 +18,7 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 
 - [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
 - [ ] [Learn C in Y Minutes](https://learnxinyminutes.com/c/)
+- [ ] [C Programming for Everybody (video)](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5NbaFb1b2n8lib01uNPWLa) and [website](https://www.cc4e.com/lessons)
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
 
 ## Exercises
