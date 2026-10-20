@@ -69,8 +69,12 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 
 ## Codebases to read through
 
+- [Lavandula web framework](https://github.com/ashtonjamesd/lavandula)
+- [Box2D](https://github.com/erincatto/box2d)
 - [SQLite](https://github.com/sqlite/sqlite)
 - [NetBSD](https://github.com/NetBSD/src) ([tour](https://www.feyrer.de/NetBSD/tour-de-source.html))
+- [Redis](https://github.com/antirez/redis)
+- [PostgreSQL](https://github.com/postgres/postgres)
 
 ## Other lists
 
