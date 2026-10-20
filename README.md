@@ -10,6 +10,7 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 - [Code analyzers](#code-analyzers)
 - [Garbage collection](#garbage-collection)
 - [Scripting](#scripting)
+- [Better standard libraries](#better-standard-libraries)
 - [Assembly](#assembly)
 - [Game programming](#game-programming)
 - [Codebases to read through](#codebases-to-read-through)
@@ -42,6 +43,13 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 - [C as scripting language](https://lazarusoverlook.com/posts/c-as-scripting-language)
 - [Intro to C scripting](https://www.instantcompiler.com/introscriptingc.htm)
 - [Reddit thread](https://www.reddit.com/r/C_Programming/comments/1x2k1y0/compiling_c_is_so_fast_that_i_use_it_as_a)
+
+## Better standard libraries
+
+- [GLib](https://github.com/GNOME/glib)
+- [M*LIB](https://github.com/P-p-H-d/mlib)
+- [sp](https://github.com/tspader/sp)
+- [STC](https://github.com/stclib/STC)
 
 ## Assembly
 
