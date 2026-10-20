@@ -5,7 +5,7 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 
 <!-- omit in toc -->
 ## Table of contents
-- [Introduction](#introduction)
+- [Books, etc.](#books-etc)
 - [Exercises](#exercises)
 - [Code analyzers](#code-analyzers)
 - [Garbage collection](#garbage-collection)
@@ -16,12 +16,16 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 - [Codebases to read through](#codebases-to-read-through)
 - [Other lists](#other-lists)
 
-## Introduction
+## Books, etc.
 
-- [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
+- [ ] [C Programming: A Modern Approach](https://archive.org/details/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by)
 - [ ] [Learn C in Y Minutes](https://learnxinyminutes.com/c/)
 - [ ] [C Programming for Everybody (video)](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5NbaFb1b2n8lib01uNPWLa) and [website](https://www.cc4e.com/lessons)
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
+- [ ] [How I program C](https://www.youtube.com/watch?v=443UNeGrFoM)
+- [ ] [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
+- [ ] [Understanding and Using C Pointers](http://www.r-5.org/files/books/computers/compilers/writing/Richard_Reese-Understanding_and_Using_C_Pointers-EN.pdf)
+- [ ] [C Interfaces and Implementations](http://www.r-5.org/files/books/computers/languages/c/mod/David_R_Hanson-C_Interfaces_and_Implementations-EN.pdf)
 
 ## Exercises
 
