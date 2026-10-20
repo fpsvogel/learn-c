@@ -7,7 +7,7 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 ## Table of contents
 - [Books, etc.](#books-etc)
 - [Exercises](#exercises)
-- [Code analyzers](#code-analyzers)
+- [Dev tools](#dev-tools)
 - [Garbage collection](#garbage-collection)
 - [Scripting](#scripting)
 - [Better standard libraries](#better-standard-libraries)
@@ -34,10 +34,9 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 - [ ] [Exercism - C](https://exercism.org/tracks/c)
 - [ ] Advent of Code: [CLI/runner written in C](https://github.com/breakthatbass/eggnog); I can't find any repos with solutions for all years, but probably there are repos with solutions for a specific year.
 
-## Code analyzers
+## Dev tools
 
 - [Cppcheck](https://cppcheck.sourceforge.io/)
-- [Splint](https://splint.org)
 <!-- [CodeChecker](https://github.com/Ericsson/codechecker) has others but I was unsuccessful installing it (or them individually) on MacOS -->
 
 ## Garbage collection
