@@ -14,6 +14,7 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 - [Assembly](#assembly)
 - [Game programming](#game-programming)
 - [Codebases to read through](#codebases-to-read-through)
+- [Other lists](#other-lists)
 
 ## Introduction
 
@@ -70,3 +71,9 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 
 - [SQLite](https://github.com/sqlite/sqlite)
 - [NetBSD](https://github.com/NetBSD/src) ([tour](https://www.feyrer.de/NetBSD/tour-de-source.html))
+
+## Other lists
+
+- [oz123/awesome-c](https://github.com/oz123/awesome-c)
+- [uhub/awesome-c](https://github.com/uhub/awesome-c)
+- [brandonhimpfen/awesome-c](https://github.com/brandonhimpfen/awesome-c)
