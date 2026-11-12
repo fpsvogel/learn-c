@@ -20,6 +20,7 @@ See also my list [Learn CS](https://github.com/fpsvogel/learn-cs).
 
 - [x] [C Programming: A Modern Approach](https://archive.org/details/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by)
 - [ ] [Learn C in Y Minutes](https://learnxinyminutes.com/c/)
+- [ ] [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13/blob/master/md/pointers.md)
 - [ ] [How I program C](https://www.youtube.com/watch?v=443UNeGrFoM)
 - [ ] [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
